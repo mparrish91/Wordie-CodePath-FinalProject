@@ -36,8 +36,9 @@ https://youtu.be/okXZnaSNK9U
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/Q4IQ284.gif' title='Wordie Walkthrough' width='' alt='Video Walkthrough' />
 <img src='http://i.imgur.com/Iji8aZ2.gif' title='Wordie Walkthrough2' width='' alt='Video Walkthrough' />
+<img src='http://i.imgur.com/Q4IQ284.gif' title='Wordie Walkthrough' width='' alt='Video Walkthrough' />
+
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 

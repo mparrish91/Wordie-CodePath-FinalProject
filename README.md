@@ -1,6 +1,6 @@
 # Codepath Final Project - *Wordie*
 
-**Wordie** is Wordie is a social video platform that allows users to upload videos/short skits of of themselves explaining or enacting a word.  The UI is similar to Musical.ly.There also is a personal dictionary on the backend. Built in Swift using Firebase, AVFoundation and Oxfords Dictionary API. I worked with my friend Ao Lu.
+**Wordie** is Wordie is a social video platform that allows users to upload videos/short skits of of themselves explaining or enacting a word.  The UI is similar to Musical.ly. There also is a personal dictionary on the backend. Built in Swift using Firebase, AVFoundation and Oxfords Dictionary API. I worked with my friend Ao Lu.
 
 Time spent: **50+** hours spent in total
 
@@ -17,15 +17,6 @@ The following functionality is completed:
 - [x] User can customize their dictionary entries. choosing synonmys, antonyms, and sentences that best help them
 - [x] User can view videos asssociated with a word
 
-
-The following **optional** features are implemented:
-
-- [ ] Distance filter should expand as in the real Yelp app.
-- [ ]  Categories should show a subset of the full list with a "See All" row to expand.
-- [ ] Implement the restaurant detail page.
-- [ ] Infinite scroll for restaurant results
-- [ ] Implement map view of restaurant results
-- [ ] Optional: implement a custom switch
 
 Final Video
 
